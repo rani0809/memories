@@ -26,31 +26,6 @@
 ### Database
 - MongoDB
 
-# Project: Memories Application
-
-## Date:
-
-- Phrase 1 + 2: 02 - Nov - 2020 ~> 08 - Nov - 2020
-- Phrase 3 (Authentication): 26 - Mar - 2021
-
-### Description
-
-- A simple social media app that allows users to post interesting events that happened in their lives.
-- Build and Deploy a Full Stack MERN App
-  - React
-  - Redux
-  - Node
-  - Express
-  - MongoDB
-- Authentication:
-  - Login with Email (JWT)
-  - Login with Google
-  - Token Expiry
-- Role for Users
-  - User can views the posts, but can't like or any actions
-  - Login for create new post
-  - Only delete/edit information of posts that user's was create
-- Responsive is support for all screen
 
 ### Screenshot
 
